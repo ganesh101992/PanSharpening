@@ -1,0 +1,2 @@
+This project is an implementation of following paper:
+S. Xu, J. Zhang, Z. Zhao, K. Sun, J. Liu and C. Zhang, "Deep Gradient Projection Networks for Pan-sharpening," 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 1366-1375, doi: 10.1109/CVPR46437.2021.00142.
